@@ -1,0 +1,9 @@
+Did not implement all fuction calls
+Bug with coping over param and call codes 2x  
+
+Semantic erorrs implemnted: 
+-Trying to name a variable with the same name as a reserved keyword. 
+-Declaring an array of size <= 0. 
+-Defining a variable more than once
+-Not defining a main function. 
+-Forgetting to specify an array index when using an array variable (i.e., trying to use an array variable as a regular integer variable). 
